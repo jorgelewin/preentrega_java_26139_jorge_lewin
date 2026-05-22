@@ -257,11 +257,3 @@ Cuando agregues nuevas funcionalidades, actualizá también:
 - los ejemplos de ejecución,
 - y las reglas de negocio que cambien.
 
-## Licencia
-
-Proyecto académico sin licencia comercial declarada.
-
-## Autor
-
-Jorge Lewin
-
