@@ -263,5 +263,5 @@ Proyecto académico sin licencia comercial declarada.
 
 ## Autor
 
-Proyecto de preentrega.
+Jorge Lewin
 
