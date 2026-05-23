@@ -25,8 +25,6 @@ Aplicación de consola desarrollada en Java para la administración de artículo
 - [Buenas prácticas aplicadas y recomendadas](#buenas-prácticas-aplicadas-y-recomendadas)
 - [Evolución sugerida](#evolución-sugerida)
 - [Mantenimiento](#mantenimiento)
-- [Licencia](#licencia)
-- [Autor](#autor)
 
 ## Estado del proyecto
 
